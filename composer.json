@@ -1,0 +1,21 @@
+{
+    "name": "hayloft/php-ews",
+    "description": "PHP Exchange Web Services",
+    "type": "library",
+    "keywords": [
+        "php-ews"
+    ],
+    "homepage": "https://github.com/jamesiarmes/php-ews",
+    "authors": [
+        {
+            "name": "James Armes",
+            "email": "jamesiarmes@gmail.com",
+            "homepage": "https://github.com/jamesiarmes"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.2",
+        "ext-curl": ">=7.23"
+    }
+}
